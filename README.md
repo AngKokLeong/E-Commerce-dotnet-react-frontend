@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">E-Commerce Project</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,6 +85,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+This project consists of Frontend application written in React and Typescript and Backend application written in C# .NET 7.0.
+
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -95,6 +97,8 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
+
+Jira Project: https://akl-development.atlassian.net/jira/software/projects/EC/boards/2/backlog 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
